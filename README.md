@@ -1,6 +1,6 @@
 ### Olá! 👋 Eu sou o Daniel Dantas
 
-- 🎓 Sou um Engenheiro Elétrico apaixonado por dados e resolução de problemas
+- 🎓 Sou um Engenheiro Eletricista apaixonado por dados e resolução de problemas
 - 🌱 Atualmente estou estudando Ciência de dados
 ##
 
