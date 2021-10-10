@@ -2,6 +2,7 @@
 
 - 🎓 Sou um Engenheiro Eletricista apaixonado por dados e resolução de problemas
 - 🌱 Atualmente estou estudando Ciência de dados
+- ⭐ Curiosidade sobre mim: Amo fazer esculturas e dioramas 🏠
 ##
 
 <div align="center">
