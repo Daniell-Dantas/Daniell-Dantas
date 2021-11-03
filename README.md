@@ -3,6 +3,7 @@
 - 🎓 Sou um Engenheiro Eletricista apaixonado por dados e resolução de problemas
 - 🌱 Atualmente estou estudando Ciência de dados
 - ⭐ Curiosidade sobre mim: Amo fazer esculturas e dioramas 🏠
+- 🤩 Me interesso por temas como: Python | Ciência de dados | Análise de dados | Machine Learning | Inteligência Artificial | BI | SQL | Resolução de problemas de negócio  
 ##
 
 <div align="center">
