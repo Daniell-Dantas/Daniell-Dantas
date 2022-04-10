@@ -32,9 +32,24 @@
 </div>
  
   ##
+
+
   
 <div> 
   <a href = "mailto:daniel.dantas.a.r@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/daniel-dantas-do-amaral-ramos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "https://stackoverflow.com/users/14044554/daniel-dantas?tab=profile"><img src="https://aleen42.github.io/badges/src/stackoverflow.svg" target="_blank", height="28em"></a>
 </div>
+  
+### Projetos de portfólio   
+  
+* [DGA Manutencao](https://github.com/Daniell-Dantas/DGA_Manutencao)
+  > Software de análise de visualização de dados para manutenção de subestação elétrica 
+* [Desafio Semantix](https://github.com/Daniell-Dantas/Desafio-Semantix)
+  > Neste repositório encontram-se o Jupyter Notebook , o relatório PDF e o comando do desafio Semantix 2021 - Big Data Sciente.
+* [Analise Play Store](https://github.com/Daniell-Dantas/Analise_Play_Store)
+  > Limpeza, análise e exploração de dados sobre dataset de aplicativos presentes na PlayStore. O que os dados nos contam?
+* [Treinamento de rede Neural Artificial](https://github.com/Daniell-Dantas/Treinamento-de-Rede-Neural-Artificial)
+  > Este é um código que implementa, passo a passo, o processo de treinamento de um neurônio artificial com o algoritmo Backpropagation.
+* [Stacked Autoencoder](https://github.com/Daniell-Dantas/Stacked-AutoEncoder)
+  > Um modelo de redes autoassociativas empilhadas para detectar faltas em transformadores de potência
