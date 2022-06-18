@@ -51,5 +51,7 @@
   > Limpeza, análise e exploração de dados sobre dataset de aplicativos presentes na PlayStore. O que os dados nos contam?
 * [Treinamento de rede Neural Artificial](https://github.com/Daniell-Dantas/Treinamento-de-Rede-Neural-Artificial)
   > Este é um código que implementa, passo a passo, o processo de treinamento de um neurônio artificial com o algoritmo Backpropagation.
+  * [Rede Neural Completa](https://github.com/Daniell-Dantas/Rede-Neural-Completa)
+  > Este é um código que implementa uma rede neural completa, utilizando validação cruzada e código python para  classificação de câncer de mama.
 * [Stacked Autoencoder](https://github.com/Daniell-Dantas/Stacked-AutoEncoder)
   > Um modelo de redes autoassociativas empilhadas para detectar faltas em transformadores de potência
