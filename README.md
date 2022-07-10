@@ -1,6 +1,6 @@
 ### Olá! 👋 Eu sou o Daniel Dantas
 
-- 🎓 Sou um Engenheiro Eletricista apaixonado por dados e resolução de problemas
+- 🎓 Sou um Engenheiro Eletricista que adora trabalhar com dados e resolução de problemas
 - 🌱 Atualmente estou estudando Ciência de dados
 - ⭐ Curiosidade sobre mim: Amo fazer esculturas e dioramas 🏠
 - 🤩 Me interesso por temas como: Python | Ciência de dados | Análise de dados | Machine Learning | Inteligência Artificial | BI | SQL | Resolução de problemas de negócio  
@@ -56,4 +56,4 @@
 * [Stacked Autoencoder](https://github.com/Daniell-Dantas/Stacked-AutoEncoder)
   > Um modelo de redes autoassociativas empilhadas para detectar faltas em transformadores de potência
 * [Classificação de ECG](https://github.com/Daniell-Dantas/Artigo-Classificacao-de-ECG)
-> Um modelo de redes convolucionais (CNN) para classificar séries temporais de sinais de Eletrocardiograma (ECG)
+  > Um modelo de redes convolucionais (CNN) para classificar séries temporais de sinais de Eletrocardiograma (ECG)
