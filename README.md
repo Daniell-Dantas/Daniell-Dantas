@@ -55,5 +55,5 @@
   > Este é um código que implementa uma rede neural completa, utilizando validação cruzada e código python para  classificação de câncer de mama.
 * [Stacked Autoencoder](https://github.com/Daniell-Dantas/Stacked-AutoEncoder)
   > Um modelo de redes autoassociativas empilhadas para detectar faltas em transformadores de potência
-  * [Classificação de ECG](https://github.com/Daniell-Dantas/Artigo-Classificacao-de-ECG)
-  > Um modelo de redes convolucionais (CNN) para classificar séries temporais de sinais de Eletrocardiograma (ECG)
+* [Classificação de ECG](https://github.com/Daniell-Dantas/Artigo-Classificacao-de-ECG)
+> Um modelo de redes convolucionais (CNN) para classificar séries temporais de sinais de Eletrocardiograma (ECG)
