@@ -5,12 +5,6 @@
 - ⭐ Curiosidade sobre mim: Amo fazer esculturas e dioramas 🏠
 - 🤩 Me interesso por temas como: Python | Ciência de dados | Análise de dados | Machine Learning | Inteligência Artificial | BI | SQL | Resolução de problemas de negócio  
 ##
-
-<div align="center">
-  <a href="https://github.com/daniell-dantas">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=daniell-dantas&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniell-dantas&layout=compact&langs_count=7&theme=gruvbox"/>
-</div>
   
 <div style="display: inline_block"><br>
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
