@@ -1,7 +1,7 @@
 ### Olá! 👋 Eu sou o Daniel Dantas
 
 - 🎓 Sou um Engenheiro Eletricista que adora trabalhar com dados e resolução de problemas
-- 🌱 Atualmente estou estudando Ciência de dados
+- 🌱 Cientista de dados com habilidades de engenheiro de dados
 - ⭐ Curiosidade sobre mim: Amo fazer esculturas e dioramas 🏠
 - 🤩 Me interesso por temas como: Python | Ciência de dados | Análise de dados | Machine Learning | Inteligência Artificial | BI | SQL | Resolução de problemas de negócio  
 ##
